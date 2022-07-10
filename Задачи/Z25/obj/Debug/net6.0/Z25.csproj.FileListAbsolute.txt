@@ -1,0 +1,15 @@
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 4\Задачи\Z25\bin\Debug\net6.0\Z25.exe
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 4\Задачи\Z25\bin\Debug\net6.0\Z25.deps.json
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 4\Задачи\Z25\bin\Debug\net6.0\Z25.runtimeconfig.json
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 4\Задачи\Z25\bin\Debug\net6.0\Z25.dll
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 4\Задачи\Z25\bin\Debug\net6.0\Z25.pdb
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 4\Задачи\Z25\obj\Debug\net6.0\Z25.csproj.AssemblyReference.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 4\Задачи\Z25\obj\Debug\net6.0\Z25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 4\Задачи\Z25\obj\Debug\net6.0\Z25.AssemblyInfoInputs.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 4\Задачи\Z25\obj\Debug\net6.0\Z25.AssemblyInfo.cs
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 4\Задачи\Z25\obj\Debug\net6.0\Z25.csproj.CoreCompileInputs.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 4\Задачи\Z25\obj\Debug\net6.0\Z25.dll
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 4\Задачи\Z25\obj\Debug\net6.0\refint\Z25.dll
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 4\Задачи\Z25\obj\Debug\net6.0\Z25.pdb
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 4\Задачи\Z25\obj\Debug\net6.0\Z25.genruntimeconfig.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 4\Задачи\Z25\obj\Debug\net6.0\ref\Z25.dll
